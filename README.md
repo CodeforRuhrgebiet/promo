@@ -1,16 +1,16 @@
 # OK Lab Ruhrgebiet - Promo-Kit
 
-## Logos
+## Logos / Banner
 ...
 
-## Short description
+## Kurzbeschreibung / Short description
 ...
 
-## Long description
+## Langbeschreibung / Long description
 ...
 
-## How we are
+## Wer wir sind / How we are
 ...
 
-## What we do
+## Was wir machen / What we do
 ...
