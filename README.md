@@ -1,2 +1,16 @@
-# promo
-OK Lab Ruhrgebiet promo collection
+# OK Lab Ruhrgebiet - Promo-Kit
+
+## Logos
+...
+
+## Short description
+...
+
+## Long description
+...
+
+## How we are
+...
+
+## What we do
+...
