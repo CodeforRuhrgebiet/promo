@@ -15,5 +15,5 @@
 ## Wer wir sind / How we are
 ...
 
-## Was wir machen / What we do
+## Wie wir Anderen helfen / How we help others
 ...
